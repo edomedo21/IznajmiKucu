@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is a full stack application for renting properties developed using React, Next.js, Prisma, MongoDB, Tailwind CSS. The project was inspired by AirBnB clone from Youtube Channel named CodeWithAntonio. Check it out here -> https://www.youtube.com/@codewithantonio
+
 ## Getting Started
 
 First, run the development server:
